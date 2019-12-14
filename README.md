@@ -1,4 +1,4 @@
-# LoudSoundDetection
+# Loud Sound Detection
 <p>Loud Sound Detection (with NAudio) - 2015 (C#)</p>
 <p>Loud Sound Detection is a tool for Windows PCs that allow you to detect loud sound for example clap.</p>
 <img src="LoudSoundDetection.png">
